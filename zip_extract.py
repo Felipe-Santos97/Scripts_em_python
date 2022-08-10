@@ -1,4 +1,3 @@
-from sys import argv
 from zipfile import ZipFile
 from time import sleep
 from os import path
